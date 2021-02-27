@@ -1,0 +1,19 @@
+.basic {
+    font-size: 11px;
+    color: black;
+    font-family: "IBM Plex Mono";
+    user-select: none;
+}
+.center {
+    margin: auto;
+    text-align: center;
+    width: 92px;
+}
+.pointer {
+    cursor: pointer;
+}
+div {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
