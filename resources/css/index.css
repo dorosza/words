@@ -16,9 +16,9 @@ div {
     position: absolute;
     top: 100px;
     left: 100px;
-    font-family: customfont;
+    font-family: "IBM Plex Mono";
 }
 @font-face {
-    font-family: customfont;
+    font-family: "IBM Plex Mono";
     src: url(IBMPlexMono-Regular.ttf);
 }
